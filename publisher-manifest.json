@@ -1,0 +1,124 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "b821b3334687a6b205d69702",
+  "owner": "xhmnytmhh",
+  "repo": "page-01d00e07c5b17f06e8dc90ac",
+  "title": "水牛云",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "01d00e07c5b17f06e8dc90ac",
+      "a": "水牛云",
+      "b": "",
+      "entity": "水牛云",
+      "brand": "水牛云",
+      "separator": "",
+      "path": "index.html",
+      "hash": "983c18336c8f8b321675a27b773da3ffc4465281c69ca2fb27d15d420c49e4f9",
+      "content": {
+        "keyword1": "水牛云",
+        "keyword2": "",
+        "primary_entity": "水牛云",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "水牛云是专注于VPN梯子与机场订阅的网络加速服务官网，提供基础版、旗舰版、团队版套餐及多平台客户端下载。轻松配置全球节点，实现高速稳定加速，解锁流媒体与优化游戏体验。",
+          "AI_DESCRIPTION": "水牛云是专注于VPN梯子与机场订阅的网络加速服务官网，提供基础版、旗舰版、团队版套餐及多平台客户端下载。轻松配置全球节点，实现高速稳定加速，解锁流媒体与优化游戏体验。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>*{box-sizing:border-box;margin:0;padding:0}body{font-family:-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,\"PingFang SC\",\"Hiragino Sans GB\",\"Microsoft YaHei\",sans-serif;background-color:#FDF6F0;color:#2D2A26;font-size:16px;line-height:1.65;overflow-x:hidden}a{color:#C23B22;text-decoration:none}header{background:#FFFFFF;border-bottom:3px solid #E07A5F;padding:16px;text-align:center}.brand{font-size:1.35rem;font-weight:700;color:#C23B22}nav{margin-top:12px}nav a{display:inline-block;margin:4px 6px;padding:6px 10px;background:#FFF0EB;border-radius:4px;font-size:14px;color:#C23B22}main{padding:20px 16px;max-width:720px;margin:0 auto}h1{font-size:1.75rem;color:#C23B22;margin-bottom:12px;text-align:center;line-height:1.3}h2{font-size:1.32rem;color:#B85C38;margin:28px 0 12px;padding-bottom:6px;border-bottom:2px solid #F0C4B4}h3{font-size:1.08rem;color:#A04A32;margin:14px 0 8px}p,li{margin-bottom:10px}ul,ol{padding-left:20px;margin-bottom:12px}.lead{margin-bottom:18px}.plan{background:#FFFFFF;border:1px solid #E8C4B8;border-radius:8px;padding:16px;margin-bottom:16px}.plan.featured{border:2px solid #E07A5F;background:#FFF8F5}.badge{display:inline-block;background:#E07A5F;color:#fff;font-size:12px;padding:2px 8px;border-radius:4px;margin-left:6px}.price{font-size:1.2rem;font-weight:700;color:#C23B22}.annual{font-size:0.9rem;color:#5C534C;margin:4px 0 10px}.features{list-style:none;padding-left:0}.features li{padding:4px 0 4px 10px;border-left:3px solid #E07A5F;margin-bottom:6px}.cta{display:inline-block;margin-top:8px;padding:8px 14px;background:#E07A5F;color:#fff;border-radius:4px}.step{background:#FFFFFF;padding:16px;margin-bottom:12px;border-radius:8px;border-left:5px solid #E07A5F}.step h3{margin-top:0}.num{display:inline-block;width:24px;height:24px;line-height:24px;text-align:center;background:#E07A5F;color:#fff;border-radius:50%;font-size:13px;margin-right:6px}details{background:#FFFFFF;border:1px solid #E8D5CC;border-radius:6px;margin-bottom:10px}summary{padding:12px 16px;font-weight:600;color:#9A3B24}details p{padding:0 16px 12px}footer{background:#F5EBE6;padding:20px 16px;text-align:center;font-size:14px;color:#555;margin-top:32px;border-top:1px solid #E0C8BC}.ad{background:#FFFFFF;padding:12px;margin:12px 0;border:1px dashed #E07A5F}.footer-links{margin:10px 0}.footer-links a{margin:0 8px}</style><header><div class=\"brand\">水牛云</div><nav><a href=\"#intro\">品牌简介</a><a href=\"#scenes\">使用场景</a><a href=\"#plans\">套餐方案</a><a href=\"#guide\">配置流程</a><a href=\"#download\">客户端下载</a><a href=\"#faq\">常见问题</a></nav></header><main><h1>水牛云</h1><p class=\"lead\">水牛云官方网站提供稳定的机场订阅与VPN梯子网络加速服务。按需选择套餐，完成订阅后即可下载客户端并按纵向步骤完成配置，实现流媒体解锁、游戏加速与跨境办公访问。</p><section id=\"intro\"><h2>品牌简介</h2><p>水牛云面向个人与团队提供机场订阅和多端加速客户端支持。服务以清晰的套餐分层、可预期的流量与设备额度为核心，配合普通线路与专线节点，帮助用户在观影、游戏和远程协作中保持可用的网络质量。</p><p>作为水牛云官网，本页集中说明套餐差异、配置流程与客户端下载方式，避免分散查找。订阅后可在 Clash、Shadowrocket 等常用客户端中导入链接，选择节点后即可使用。团队用户还可按业务需要调整路由策略。</p><p>我们强调可执行的操作路径：先选定套餐拿到订阅，再匹配系统下载客户端，最后按步骤导入并连接。节点覆盖港台、日韩、新美及部分欧洲方向，旗舰与团队套餐强化流媒体原生解锁和游戏向 IPLC 优化。</p></section><section id=\"scenes\"><h2>使用场景</h2><h3>流媒体观看</h3><p>适合需要访问海外影视与音乐平台的用户。旗舰版与团队版强调全节点原生解锁，基础版覆盖常见基础流媒体需求，减少地区限制带来的中断。</p><h3>游戏加速</h3><p>对延迟敏感的对战与开放世界游戏，可通过旗舰版 IPLC 专线游戏加速优化降低抖动。选择距离更近或专线节点后，匹配与加载更平稳。</p><h3>远程办公与学习</h3><p>视频会议、网盘同步、文献与开发仓库访问时，稳定链路比单纯峰值带宽更重要。团队版支持更多设备与定制路由，便于多人同时在线。</p><h3>日常跨境访问</h3><p>社交、购物与资讯浏览可使用普通线路节点池，按延迟排序即可。流量按月计算，便于评估使用强度后再决定是否升级套餐。</p></section><section id=\"plans\"><h2>套餐方案</h2><p>以下为水牛云当前公开套餐。年付可降低每月折算成本。请根据设备数量、流量预估和是否需要专线/优先支持进行选择。</p><article class=\"plan\"><h3>基础版</h3><p class=\"price\">¥15/月</p><p class=\"annual\">按年付仅需 ¥150/年</p><ul class=\"features\"><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul><a class=\"cta\" href=\"#guide\">查看配置步骤</a></article><article class=\"plan featured\"><h3>旗舰版<span class=\"badge\">推荐</span></h3><p class=\"price\">¥35/月</p><p class=\"annual\">按年付仅需 ¥350/年</p><ul class=\"features\"><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul><a class=\"cta\" href=\"#guide\">查看配置步骤</a></article><article class=\"plan\"><h3>团队版</h3><p class=\"price\">¥85/月</p><p class=\"annual\">按年付仅需 ¥850/年</p><ul class=\"features\"><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul><a class=\"cta\" href=\"#guide\">查看配置步骤</a></article></section><section id=\"guide\"><h2>配置流程与操作说明</h2><p>水牛云的使用路径按纵向步骤展开。请依次完成订阅、下载、导入与连接，避免跳步导致客户端无法更新节点。</p><div class=\"step\"><h3><span class=\"num\">1</span>选择套餐并获取订阅</h3><p>在官网确认基础版、旗舰版或团队版后完成订阅，系统会生成专属订阅链接。请妥善保存链接，后续换机只需重新导入，无需重复购买。</p></div><div class=\"step\"><h3><span class=\"num\">2</span>按系统下载客户端</h3><p>Windows 与 macOS 可使用 Clash 系客户端；Android 建议 Clash Meta 内核应用；iOS 常用 Shadowrocket 等。进入本页下载说明对照设备选择，只使用来源清晰的安装包。</p></div><div class=\"step\"><h3><span class=\"num\">3</span>导入订阅链接</h3><p>打开客户端，选择从 URL 添加订阅或导入配置，粘贴水牛云提供的链接并更新。成功后应看到节点列表，名称通常含地区与线路类型。</p></div><div class=\"step\"><h3><span class=\"num\">4</span>筛选节点并连接</h3><p>按延迟测试排序，观影优先选择解锁标识节点，游戏优先 IPLC 或低抖动线路。开启系统代理或 TUN 模式后，浏览器与游戏会走加速通道。</p></div><div class=\"step\"><h3><span class=\"num\">5</span>验证与日常维护</h3><p>打开目标网站或游戏确认连通。之后定期在客户端内更新订阅即可同步新节点。流量将尽时减少 4K 或下载任务，或按需升级套餐。旗舰版用户可通过优先工单反馈线路问题。</p></div></section><section id=\"download\"><h2>客户端下载</h2><p>水牛云官方下载指引按平台分类，配置文件由订阅链接自动生成，无需手工编写复杂规则。请先完成套餐订阅再导入，否则客户端无法拉取节点。</p><h3>桌面端</h3><p>Windows 推荐 Clash 兼容客户端或 v2rayN；macOS 可使用 Clash 系工具。安装后允许本地代理权限，导入订阅并开启系统代理。公司电脑若有安全软件拦截，需将客户端加入允许列表。</p><h3>移动端</h3><p>Android 使用支持订阅的 Clash Meta 应用；iOS 需在商店获取兼容应用后粘贴订阅。手机建议开启分应用代理，仅对需要加速的 App 生效，以节省电量与流量。</p><h3>导入格式说明</h3><p>主流客户端可识别 Clash YAML 或通用订阅。若某应用提示格式不兼容，可在水牛云用户中心切换订阅类型后重新复制链接。不要将订阅公开分享，以免流量被占用。</p><p><a class=\"cta\" href=\"#faq\">查看导入相关问题</a></p></section><section id=\"nodes\"><h2>节点与性能说明</h2><p>节点池包含香港、台湾、日本、韩国、新加坡、美国及部分欧洲入口。普通线路适合浏览与基础流媒体；旗舰与团队套餐提供更高带宽与 IPLC 游戏优化，适合长时间在线。</p><p>实际速度受本地宽带、时段和目标站点影响。建议在客户端内先测延迟再固定常用节点。企业或工作室如需固定出口与分流规则，可选择团队版定制路由。</p></section><section id=\"faq\"><h2>常见问题</h2><details><summary>水牛云客户端如何从官网完成下载与安装？</summary><p>先确认操作系统，再在本页客户端下载说明中选择对应类型。安装完成后不要急于连接，必须先导入订阅链接并更新节点。仅使用官网指引的应用来源，避免来路不明的修改版。</p></details><details><summary>机场订阅链接导入失败怎么办？</summary><p>检查链接是否完整复制、客户端是否支持该订阅格式。可尝试更换 Clash 或通用订阅类型后重试，并确认设备时间准确。若仍失败，更新客户端到较新版本，或在旗舰版工单中提交截图。</p></details><details><summary>基础版、旗舰版和团队版应如何选择？</summary><p>轻度浏览与少量设备选基础版；需要原生流媒体、游戏专线和优先支持选旗舰版；多人共用、大流量或需要定制路由选团队版。年付价格更适合长期使用。</p></details><details><summary>流量用尽或设备超限会怎样？</summary><p>流量用尽后加速会暂停或降为不可用状态，次月重置或升级套餐后恢复。超过同时在线设备数时，新设备可能无法连接，请在已登录设备中下线不用的终端。</p></details><details><summary>如何确认节点能解锁流媒体或降低游戏延迟？</summary><p>旗舰与团队套餐标注全节点原生解锁和 IPLC 游戏优化。连接后访问对应平台或进入对局观察延迟。若某节点异常，切换同区域其他线路，并保持订阅为最新。</p></details><details><summary>水牛云是否提供官方身份核验与售后入口？</summary><p>请通过本站（水牛云官网）获取套餐与配置说明。旗舰版含 7x24 优先工单，团队版配备专属客户经理。不要在不明来源页面填写订阅信息。</p></details></section><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer><div class=\"ad\">广告：水牛云机场订阅与VPN加速服务信息展示位，合作事宜请通过官方渠道联系。</div><p>© 水牛云官方网站 · 机场订阅与客户端下载说明</p><p class=\"footer-links\">友情链接：<a href=\"#\">加速工具导航</a><a href=\"#\">节点状态说明</a><a href=\"#\">客户端兼容列表</a></p><p><a href=\"#\">网站地图</a> · <a href=\"#intro\">返回简介</a></p></footer>",
+          "hash": "2a109953b0fc12bd0d0d24c7921dd3add13e618d99333e6efaf558e0c5b25397",
+          "seo": {
+            "title": "水牛云官网 | VPN梯子网络加速、机场订阅与客户端官方下载",
+            "keywords": "水牛云,水牛云VPN,水牛云机场,水牛云官网,VPN梯子,网络加速器,机场订阅,客户端下载,Clash,游戏加速,流媒体解锁,官方下载",
+            "description": "水牛云是专注于VPN梯子与机场订阅的网络加速服务官网，提供基础版、旗舰版、团队版套餐及多平台客户端下载。轻松配置全球节点，实现高速稳定加速，解锁流媒体与优化游戏体验。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "bdmpk.cn",
+    "host": "p-a4557a8c35.bdmpk.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [
+    {
+      "host": "bdmpk.cn",
+      "url": "https://bdmpk.cn/",
+      "label": "金坷垃",
+      "apex": "bdmpk.cn",
+      "kind": null,
+      "identity": "fkugcv/page-e33e2d65a3df33d7ba0f1d06"
+    },
+    {
+      "host": "jssrdgs.com",
+      "url": "https://jssrdgs.com/",
+      "label": "水牛云",
+      "apex": "jssrdgs.com",
+      "kind": null,
+      "identity": "jkcgyju7/page-0c313a41ac437da18e319f88"
+    },
+    {
+      "host": "sxwanxuan.com",
+      "url": "https://sxwanxuan.com/",
+      "label": "水牛云",
+      "apex": "sxwanxuan.com",
+      "kind": null,
+      "identity": "bgesc8n/page-1934a50cc577b34df8241b00"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "f4ad7f5b37635666fc4e3de35000ba3cd78bb9694546b10a397df027a9e33bc9",
+    "sitemap.xml": "44ecf30a8e292bfa87c91f5383c463d853f0577e8f8e52edc3fae2d099cae5ba",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "397add56a54491b1a315bf931e83d5f74e250c0be8028e23df1af4d5a94b8342",
+    "robots.txt": "5e173ea8d9e4ac2aa2e772b6d6429160124a3e214f814b658ab294241cb834d8",
+    "b49aaba5320113e8bc22b6086b73dc5a.txt": "2d56e7dc42c64b55a618f77b32acd37429579829a9bfa51000a5594242984855"
+  },
+  "revision": "96de78898df97bd01a8a22cea576c6f1db0548942c18db21200dbaa0640d45a5"
+}
